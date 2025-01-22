@@ -50,7 +50,7 @@ We’d love your feedback! Fork the repo and contribute to make it even better. 
 ---
 
 ### 🚀 Project Links:
-- [Live Demo](#)
+- https://choudhary-abhishek.github.io/The-Simon-Game/
 
 #### Created with ❤️ by a memory-loving developer! ✨
 
