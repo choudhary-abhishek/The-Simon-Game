@@ -38,7 +38,7 @@ The Siemon Game is fully responsive – play on desktop, tablet, or phone! 📱
 
 ## 💬 Feedback
 We’d love your feedback! Fork the repo and contribute to make it even better. 🚀
-
+Gmai Choudhary7662@gmail.com
 ---
 
 ### Ready to play? Let the blinking begin! 👁️💥
@@ -48,4 +48,3 @@ We’d love your feedback! Fork the repo and contribute to make it even better. 
 ### 🚀 Project Links:
 - https://choudhary-abhishek.github.io/The-Simon-Game/
 
-#### Created with ❤️ by a memory-loving developer! ✨
